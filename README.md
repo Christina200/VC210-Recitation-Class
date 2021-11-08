@@ -1,2 +1,2 @@
 # VC210-Recitation-Class
-VC210 Discussion Materials (Fall 2020)
+VC210 (General Chemistry) Discussion Materials (Fall 2020)
